@@ -1,0 +1,19 @@
+Welcome to Coviz, a program that provides informtion and visualization for COVID-19 cases!
+
+To try some of our functions, run: 
+
+    python3 ProductionCode.py --help 
+
+for instructions!
+
+Examples of things you can do: 
+
+    1. Get the latest number of COVID cases in a state (inaccurate number right now, due to the fact that we are using dummy data):
+
+        Try:
+            python3 ProductionCode.py -s Minnesota
+
+    2. Get the graph of the COVID cases and deaths in a county within a date range:
+
+        Try:
+            python3 ProductionCode.py -s Alabama -c Autauga -d 2020-2-1 2020-12-1

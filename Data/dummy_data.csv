@@ -1,0 +1,201 @@
+Date,Admin2,Province/State,Confirmed,Deaths,Country/Region
+2020-04-20,Norman,Minnesota,5,0,US
+2020-11-10,Prince Edward,Virginia,810,13,US
+2021-07-11,Dunn,Wisconsin,5146,33,US
+2021-06-01,Kodiak Island,Alaska,1125,6,US
+2021-06-08,Henry,Illinois,5067,70,US
+2020-12-30,St. Louis,Missouri,68821,1384,US
+2021-07-19,Gallatin,Kentucky,759,33,US
+2020-06-14,Dawson,Montana,0,0,US
+2021-07-29,Tishomingo,Mississippi,2393,70,US
+2021-10-16,Lincoln,Idaho,660,12,US
+2021-12-06,Riverside,California,391030,5388,US
+2021-02-17,Howard,Maryland,15384,217,US
+2020-10-06,Cocke,Tennessee,815,11,US
+2021-07-04,Genesee,Michigan,41760,971,US
+2021-08-16,Rice,Kansas,1118,12,US
+2020-12-24,Berkshire,Massachusetts,2604,117,US
+2020-03-08,McLennan,Texas,0,0,US
+2020-09-17,Jasper,Iowa,720,32,US
+2020-03-14,Goochland,Virginia,0,0,US
+2021-07-26,Chugach,Alaska,552,3,US
+2021-02-01,Mingo,West Virginia,1927,21,US
+2022-01-28,Clearwater,Minnesota,1934,29,US
+2020-11-29,Chippewa,Wisconsin,4649,53,US
+2021-01-11,Boone,Arkansas,2856,71,US
+2020-09-02,Edwards,Illinois,42,0,US
+2020-11-12,Somerset,New Jersey,8301,600,US
+2022-01-26,Sweet Grass,Montana,707,8,US
+2020-04-09,Harrison,Missouri,4,0,US
+2020-04-23,Choctaw,Mississippi,13,1,US
+2022-03-01,Lake,Colorado,1770,2,US
+2020-06-25,Yellow Medicine,Minnesota,24,0,US
+2021-07-10,DeKalb,Indiana,4449,85,US
+2020-10-17,Jeff Davis,Georgia,774,22,US
+2021-09-17,Gallatin,Kentucky,1072,35,US
+2020-08-11,Piscataquis,Maine,4,0,US
+2020-06-29,Greene,Indiana,183,31,US
+2021-08-25,Clay,Alabama,1845,60,US
+2020-12-26,Garrett,Maryland,1404,42,US
+2020-02-21,Jackson,Iowa,0,0,US
+2022-03-01,Bryan,Georgia,8892,85,US
+2021-07-02,Loup,Nebraska,42,0,US
+2022-01-19,Barnstable,Massachusetts,30664,476,US
+2020-10-04,Essex,New Jersey,21675,2129,US
+2021-08-11,Hanson,South Dakota,395,4,US
+2020-05-01,Wyandotte,Kansas,710,55,US
+2021-12-27,Pulaski,Missouri,5839,99,US
+2020-04-11,Orleans,New York,24,0,US
+2021-11-03,Currituck,North Carolina,2786,27,US
+2021-03-09,Hamilton,Florida,1575,23,US
+2020-09-04,Unassigned,Delaware,294,0,US
+2022-03-27,Mecosta,Michigan,8622,108,US
+2020-05-07,Bexar,Texas,1901,53,US
+2020-10-08,Logan,Kansas,47,0,US
+2021-05-15,Hillsborough,New Hampshire,35764,635,US
+2021-03-14,San Benito,California,5919,61,US
+2022-04-08,Logan,Ohio,10225,171,US
+2022-01-06,York,Pennsylvania,91847,1230,US
+2021-08-28,Grand,Utah,0,0,US
+2021-06-12,Southwest Utah,Utah,29441,276,US
+2020-08-13,Carlton,Minnesota,147,0,US
+2020-02-10,Matagorda,Texas,0,0,US
+2020-05-04,Washington,Nebraska,23,1,US
+2020-11-26,Sagadahoc,Maine,149,0,US
+2021-09-18,Wabasha,Minnesota,2433,4,US
+2020-07-20,Ceiba,Puerto Rico,11,0,US
+2022-02-17,Boone,Indiana,14940,162,US
+2022-01-03,Dawson,Montana,1889,52,US
+2021-09-12,Fayette,Kentucky,45806,344,US
+2021-01-10,Bibb,Georgia,11337,267,US
+2020-10-22,Guaynabo,Puerto Rico,1168,0,US
+2020-03-19,Decatur,Iowa,0,0,US
+2021-04-19,Etowah,Alabama,13705,348,US
+2021-09-01,Johnson,Texas,23276,417,US
+2021-06-15,Pend Oreille,Washington,821,9,US
+2021-02-25,Prince George's,Maryland,72788,1327,US
+2020-07-20,Taos,New Mexico,71,1,US
+2021-07-16,Warren,Pennsylvania,2651,106,US
+2022-03-27,Transylvania,North Carolina,6115,71,US
+2021-10-31,Hale,Texas,4369,190,US
+2021-01-29,Pike,Arkansas,875,19,US
+2020-06-28,Warren,North Carolina,157,5,US
+2021-03-26,Seneca,New York,1770,56,US
+2021-08-06,Mitchell,Kansas,584,18,US
+2021-12-12,Beckham,Oklahoma,3966,75,US
+2021-08-16,Saratoga,New York,16437,173,US
+2021-11-13,Penobscot,Maine,12978,192,US
+2022-02-11,Cook,Illinois,1097792,13725,US
+2020-07-19,Pike,Georgia,140,3,US
+2021-03-26,Fairfax City,Virginia,511,17,US
+2022-02-24,Putnam,Florida,17391,405,US
+2020-07-09,Sarasota,Florida,2431,100,US
+2020-05-12,Butts,Georgia,191,17,US
+2021-12-25,Luna,New Mexico,4844,104,US
+2021-06-05,Chelan,Washington,6825,66,US
+2021-04-24,Rusk,Texas,4206,106,US
+2021-04-16,Twiggs,Georgia,702,42,US
+2021-09-26,Norfolk,Massachusetts,61376,1477,US
+2021-07-07,Piatt,Illinois,1526,14,US
+2020-12-11,Jefferson,Oregon,1107,12,US
+2020-04-24,Osceola,Florida,461,7,US
+2020-05-03,Jones,North Carolina,18,2,US
+2021-11-11,Burt,Nebraska,852,12,US
+2020-07-27,Dawson,Georgia,241,3,US
+2020-10-18,Aiken,South Carolina,4760,86,US
+2020-03-28,Schuyler,New York,1,0,US
+2020-02-18,Sumner,Tennessee,0,0,US
+2020-09-10,Madison,Missouri,224,0,US
+2020-03-03,Wilkinson,Mississippi,0,0,US
+2021-10-18,Lewis,Missouri,1636,22,US
+2022-01-27,Apache,Arizona,19857,568,US
+2020-09-27,Bingham,Idaho,914,10,US
+2021-05-05,Saline,Illinois,2552,53,US
+2021-08-11,Union,Arkansas,4516,116,US
+2022-03-13,Davie,North Carolina,11068,90,US
+2021-09-25,Monroe,Tennessee,9198,113,US
+2022-02-14,Sanpete,Utah,0,0,US
+2020-11-19,Woodford,Illinois,1398,21,US
+2020-07-15,Menard,Illinois,33,0,US
+2020-12-12,Kershaw,South Carolina,3276,71,US
+2020-08-28,Loving,Texas,0,0,US
+2020-02-07,Lincoln,West Virginia,0,0,US
+2021-08-12,Goochland,Virginia,1564,24,US
+2020-03-13,Fayette,Illinois,0,0,US
+2020-03-21,Dawson,Texas,0,0,US
+2021-02-20,Putnam,Indiana,3242,58,US
+2020-10-27,Seward,Nebraska,363,3,US
+2020-05-10,Breckinridge,Kentucky,13,0,US
+2021-01-31,Summit,Ohio,36414,816,US
+2022-01-15,Grant,Kansas,1841,33,US
+2020-07-13,James City,Virginia,361,16,US
+2022-02-18,Southeast Fairbanks,Alaska,1969,16,US
+2021-11-25,Out of MD,Maryland,0,0,US
+2021-07-08,Burnett,Wisconsin,1591,26,US
+2021-03-14,Turner,South Dakota,1091,53,US
+2021-04-10,Shasta,California,12890,189,US
+2020-04-10,Warren,Indiana,2,1,US
+2021-06-16,Sheridan,North Dakota,122,2,US
+2020-08-16,Bossier,Louisiana,2464,84,US
+2020-07-05,Noxubee,Mississippi,263,8,US
+2020-09-17,Champaign,Illinois,4218,20,US
+2020-04-11,Grant,Kansas,0,0,US
+2022-02-02,Missaukee,Michigan,2742,57,US
+2020-11-08,Washington,Pennsylvania,2512,41,US
+2021-11-24,Jasper,Iowa,6195,91,US
+2020-06-01,Montrose,Colorado,177,12,US
+2020-12-24,Juneau,Alaska,1020,5,US
+2021-08-14,Cherokee,Iowa,1650,39,US
+2020-08-09,Carroll,Indiana,191,2,US
+2022-01-18,Huron,Ohio,13460,206,US
+2022-02-11,Sequatchie,Tennessee,4116,64,US
+2020-04-09,Morgan,Ohio,2,0,US
+2021-07-07,Catahoula,Louisiana,1196,38,US
+2021-05-04,Fort Bend,Texas,68678,662,US
+2020-03-04,Out of TN,Tennessee,0,0,US
+2021-11-03,Hancock,Georgia,1123,81,US
+2021-05-26,Canyon,Idaho,27100,299,US
+2020-12-11,Des Moines,Iowa,3229,26,US
+2020-09-21,Grays Harbor,Washington,468,10,US
+2021-01-14,Carter,Tennessee,5311,108,US
+2021-08-21,Hartford,Connecticut,89087,2455,US
+2020-03-26,Lee,Arkansas,0,0,US
+2020-04-14,Santa Barbara,California,294,2,US
+2021-11-28,Humboldt,Nevada,2533,39,US
+2021-12-13,St. Louis,Missouri,140452,2667,US
+2021-05-01,Centre,Pennsylvania,16675,220,US
+2020-05-03,Searcy,Arkansas,6,0,US
+2020-07-12,Lincoln,Louisiana,438,19,US
+2020-11-14,Moore,Texas,1750,25,US
+2021-05-22,Montgomery,Missouri,1036,11,US
+2022-01-05,Dorchester,Maryland,5628,92,US
+2022-03-31,Coffee,Alabama,13556,231,US
+2020-11-23,Stone,Missouri,1125,15,US
+2020-09-04,Dillon,South Carolina,792,28,US
+2020-02-05,Sauk,Wisconsin,0,0,US
+2020-01-29,Maverick,Texas,0,0,US
+2020-05-24,Marshall,South Dakota,4,0,US
+2020-08-13,Scotts Bluff,Nebraska,309,6,US
+2020-04-14,Kenedy,Texas,0,0,US
+2020-11-08,Manati,Puerto Rico,340,0,US
+2021-07-20,Jefferson,Alabama,82487,1584,US
+2020-04-18,Orange,California,1835,32,US
+2021-06-16,McLean,Illinois,18547,187,US
+2020-03-07,Garland,Arkansas,0,0,US
+2020-04-28,Cherokee,Alabama,16,0,US
+2021-06-27,Crawford,Ohio,4053,111,US
+2020-06-05,San Juan,Puerto Rico,230,0,US
+2021-04-10,Washington,Kentucky,1401,36,US
+2021-08-01,Porter,Indiana,19616,327,US
+2020-09-14,Cabell,West Virginia,658,8,US
+2021-09-28,Iberville,Louisiana,5708,121,US
+2020-07-31,DeSoto,Mississippi,3113,26,US
+2021-05-05,Otoe,Nebraska,1454,9,US
+2020-08-12,Mercer,North Dakota,30,0,US
+2021-10-26,Portage,Wisconsin,9513,99,US
+2021-12-19,Mercer,Kentucky,4855,93,US
+2020-04-19,Somerset,Pennsylvania,18,0,US
+2020-12-29,Adams,Colorado,39253,504,US
+2022-03-25,Mills,Iowa,3339,42,US
+2020-11-26,Martin,Texas,287,7,US
+2021-06-21,Delaware,Pennsylvania,52541,1401,US

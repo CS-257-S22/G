@@ -1,0 +1,21 @@
+<html>
+
+    <head>
+        <title>
+            Covid Graphs For {{location[0]}}, {{location[1]}}
+        </title>
+    </head>
+
+    <body>
+        <h1>
+            Covid Graphs For {{location[0]}}, {{location[1]}} <br/>
+            From {{dateRange[0][0] + "-" + dateRange[0][1] + "-" + dateRange[0][2]}}
+            To {{dateRange[1][0] + "-" + dateRange[1][1] + "-" + dateRange[1][2]}}
+        </h1>
+        
+        <img src='data:image/png;base64,{{data}}'/>
+
+    </body>
+
+</html>
+
